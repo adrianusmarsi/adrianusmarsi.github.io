@@ -3,10 +3,14 @@ body {
 }
 
 .jumbotron {
-  padding-top: 2rem;
-  background-color: #e2edff;
+  padding-top: 6rem;
+  background-color: #ffd86d;
 }
 
 #galery {
-  background-color: #e2edff;
+  background-color: #ffd86d;
+}
+
+section {
+  padding-top: 5rem;
 }
